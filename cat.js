@@ -3,4 +3,4 @@ function cat()
 
 }
 
-mudule.export('cat');
+module.export('cat');

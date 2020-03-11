@@ -4,4 +4,4 @@ function mouse(name,weight)
 	weight = weight;
 }
 
-mudule.export('mouse');
+module.export('mouse');
