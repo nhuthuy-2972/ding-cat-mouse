@@ -1,7 +1,12 @@
 function mouse(name,weight)
 {
 	name = name;
-	weight = weight;
+	dead = false;
 }
 
+
+mouse.prototype.die = function ()
+{
+	dead = true;
+}
 module.export('mouse');
