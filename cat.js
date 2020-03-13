@@ -1,5 +1,6 @@
-function cat()
+function cat(name)
 {
+	name = name
 	tomash = [];
 }
 
